@@ -1,0 +1,1 @@
+No conversion with chatGPT was necessary use information from previous conversation(check Create regex implementation.txt)
